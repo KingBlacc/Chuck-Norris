@@ -40,3 +40,16 @@ npm run dev
 * run ```npm run dev``` to run both `Backend` and `Client`
 * or `heroku login` to start the deployment process to [Heroku CLoud](https://heroku.com/)
 
+## Built With
+
+- [React JS](https://reactjs.org/)
+- [React Router](https://github.com/ReactTraining/react-router)
+- [Redux](https://redux.js.org/)
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Apollo QraphQL](https://www.apollographql.com/docs/)
+- [Heroku](https://heroku.com/)
+- [GraphQL](https://graphql.org/)
+
+## Authors
+- **Bobby** - _Development_ - [Bobby](https://github.com/KingBlacc)
+
